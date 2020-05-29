@@ -1,0 +1,5 @@
+[
+  { "id":"11", "pId":"0", "name":"学生注意力实时分析","page":"page_user_userstatistics.action"},
+  { "id":"12", "pId":"0", "name":"用时变化趋势","page":"page_user_time.action"},
+  { "id":"13", "pId":"0", "name":"错误数变化趋势","page":"page_user_errorcount.action"}
+]
